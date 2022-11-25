@@ -807,6 +807,14 @@ footer .main .right span {
         font-size: 17px;
     }
 
+    #first-section .main .writting .left .down {
+        padding-top: 65px;
+    }
+
+    #first-section .main .writting .right .down {
+        padding-top: 70px;
+    }
+
     #middle-section .profile {
         flex-direction: column;
     }
